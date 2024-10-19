@@ -1,6 +1,8 @@
 # Employee Management API with Flask and Swagger
 
 ---
+![image](https://github.com/user-attachments/assets/abf0e856-8687-408b-82df-a74186877a7a)
+
 
 ## Project Overview
 
@@ -42,5 +44,3 @@ Navigate to http://127.0.0.1:5000/apidocs/ in your browser to access the Swagger
 
 ## Resources Followed
 This project is based on a tutorial from GeeksforGeeks about Testing APIs with Swagger. The tutorial explains how to create and test APIs using Flask and Swagger, including how to implement basic CRUD operations and generate Swagger-based documentation.
-
-## Technologies Used
